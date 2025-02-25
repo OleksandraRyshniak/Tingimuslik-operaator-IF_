@@ -170,7 +170,8 @@ elif hind>10:
 else:
     print("Viga!")
 
-# 13 
+# 13
+ 
 p=input("Sisesta oma sugu:")
 if p=="mees":
     vanus=int(input("Sisestage vanus: "))
