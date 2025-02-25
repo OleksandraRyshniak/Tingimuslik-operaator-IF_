@@ -171,6 +171,7 @@ else:
     print("Viga!")
 
 # 13 
+p=input("Sisesta oma sugu:")
 if p=="mees":
     vanus=int(input("Sisestage vanus: "))
     if 16<=vanus<=18:
