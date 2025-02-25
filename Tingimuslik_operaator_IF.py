@@ -193,3 +193,4 @@ if bus==0:
 print(f"Vaja on busse: {bus_n}")
 print(f"Viimane buss läheb edasi: {bus}")
 
+
